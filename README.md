@@ -2,6 +2,10 @@
 
 A Claude Code mod that puts a small white pixel cat above the prompt in the terminal.
 
+## Example
+
+![The white pixel cat walking above the Claude Code prompt](cutie-cat.gif)
+
 ## What it does
 
 - The cat walks back and forth, with a short sit and a blink now and then.
